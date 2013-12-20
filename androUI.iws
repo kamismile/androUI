@@ -14,40 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386772c9-fd83-4701-b75f-e83ec8dc7bef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/image01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/image02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/image03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/image04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/number9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/play_press.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PageFlipperActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/buton_style.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/layout/button1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/layout/button2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/anim/in_leftright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/anim/in_rightleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/anim/out_leftright.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/anim/out_rightleft.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/src/main/res/layout/path_button.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/androUI/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/androUI/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/MyAndroidExampleActivity.java" afterPath="$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/MyAndroidExampleActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/androUI.iws" afterPath="$PROJECT_DIR$/androUI.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/androUI/src/main/res/layout/main.xml" afterPath="$PROJECT_DIR$/androUI/src/main/res/layout/main.xml" />
     </list>
     <ignored path="androUI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,107 +79,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ButtonState.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="24" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="589">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ButtonTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageFlipperActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PageFlipperActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="42" selection-start="2758" selection-end="2772" vertical-scroll-proportion="0.0" vertical-offset="1643" max-vertical-offset="3496">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in_rightleft.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/res/anim/in_rightleft.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="72" selection-start="224" selection-end="224" vertical-scroll-proportion="-4.56" vertical-offset="0" max-vertical-offset="228">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in_leftright.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/res/anim/in_leftright.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="228">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PathButtonActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PathButtonActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="24" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="4997">
+            <state line="115" column="61" selection-start="4435" selection-end="4435" vertical-scroll-proportion="0.36660618" vertical-offset="1774" max-vertical-offset="4997">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="button1.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/res/layout/button1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="86" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-4.882353" vertical-offset="359" max-vertical-offset="1140">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="64" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.8597786" vertical-offset="712" max-vertical-offset="1349">
-              <folding>
-                <element signature="e#410#428#0" expanded="true" />
-                <element signature="e#519#537#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="button2.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/res/layout/button2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="42" selection-start="453" selection-end="453" vertical-scroll-proportion="-4.8431373" vertical-offset="0" max-vertical-offset="361">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buton_style.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/buton_style.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="247">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -1333,17 +1207,25 @@
       <updated>1387344702233</updated>
       <workItem from="1387344708155" duration="9887000" />
       <workItem from="1387417688956" duration="8117000" />
-      <workItem from="1387502626716" duration="12354000" />
+      <workItem from="1387502626716" duration="13423000" />
     </task>
     <task id="LOCAL-00001" summary="00">
       <created>1387531329428</created>
       <updated>1387531329428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="00&#10;11">
+      <created>1387532566334</created>
+      <updated>1387532566334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="00&#10;11&#10;">
+      <created>1387533276770</created>
+      <updated>1387533276770</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30358000" />
+    <option name="totallyTimeSpent" value="31427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1156" height="1032" extended-state="6" />
@@ -1398,7 +1280,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="00" />
-    <option name="LAST_COMMIT_MESSAGE" value="00" />
+    <MESSAGE value="00&#10;11" />
+    <MESSAGE value="00&#10;11&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="00&#10;11&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1727,22 +1611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="24" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="4997">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="24" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="589">
@@ -1773,25 +1641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PageFlipperActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="42" selection-start="2758" selection-end="2772" vertical-scroll-proportion="0.0" vertical-offset="1643" max-vertical-offset="3496">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/androUI/src/main/res/layout/button1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="86" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-4.882353" vertical-offset="359" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/drawable-hdpi/ic_launcher.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1816,10 +1665,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="64" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.8597786" vertical-offset="712" max-vertical-offset="1349">
+        <state line="42" column="45" selection-start="1490" selection-end="1490" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1463">
           <folding>
             <element signature="e#410#428#0" expanded="true" />
             <element signature="e#519#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/ButtonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="63" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="1045">
+          <folding>
+            <element signature="e#825#1080#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PageFlipperActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="64" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="3496">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androUI/src/main/res/layout/button1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="248" selection-end="248" vertical-scroll-proportion="-1.0896131" vertical-offset="649" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="61" selection-start="4435" selection-end="4435" vertical-scroll-proportion="0.36660618" vertical-offset="1774" max-vertical-offset="4997">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

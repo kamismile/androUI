@@ -36,6 +36,13 @@
             android:id="@+id/b3"
             android:text="时间控件"
             />
+
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/b4"
+            android:text="button"
+            />
 </LinearLayout>
 
 </ScrollView>

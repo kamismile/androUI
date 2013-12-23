@@ -13,8 +13,701 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386772c9-fd83-4701-b75f-e83ec8dc7bef" name="Default" comment="00&#10;11&#10;">
-      <change type="DELETED" beforePath="D:\tempProject\androUI\androUI\.gitignore" afterPath="" />
+    <list default="true" id="386772c9-fd83-4701-b75f-e83ec8dc7bef" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_clear_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_clear_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_voice_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/image01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/image02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/image03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/image04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/number9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/play_press.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout-v11/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout-v11/abc_action_bar_decor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_decor_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_decor_overlay.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_decor_overlay.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_tab.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_tab.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_tabbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_tabbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_title_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_title_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_action_mode_close_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_action_mode_close_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout-v14/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout-v14/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_activity_chooser_view_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_expanded_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_expanded_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_ic_clear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_ic_clear.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_ic_clear_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_ic_clear_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_item_background_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_item_background_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_item_background_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_item_background_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_list_menu_item_icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_list_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_list_menu_item_radio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_list_menu_item_radio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_list_selector_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_list_selector_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_popup_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_popup_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_search_dropdown_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_search_dropdown_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_search_dropdown_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_search_dropdown_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/color/abc_search_url_text_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/color/abc_search_url_text_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_spinner_ab_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_spinner_ab_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_spinner_ab_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_spinner_ab_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_tab_indicator_ab_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_tab_indicator_ab_holo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_textfield_searchview_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_textfield_searchview_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_right_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_textfield_searchview_right_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/drawable/abc_textfield_searchview_right_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable/abc_textfield_searchview_right_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/alarm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/drawable-hdpi/buton_style.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/button1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/button2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/fragment_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/gesture.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/gesture1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/in_leftright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/in_rightleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/out_leftright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/anim/out_rightleft.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/path_button.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/startmain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/layout/timepicker.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-land/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-large/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-sw600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-v11/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-v14/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w360dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w480dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w500dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-w720dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-xlarge/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zh-rTW/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/res/values-zu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-land/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-large/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-sw600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-v11/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-v14/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w360dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w480dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w500dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w720dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-w820dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-xlarge/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androUI/build/res/all/debug/values-zh-rTW/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/androUI.iws" afterPath="$PROJECT_DIR$/androUI.iws" />
     </list>
     <ignored path="androUI.iws" />
@@ -82,7 +775,7 @@
       <file leaf-file-name="PathButtonActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="279" column="38" selection-start="9714" selection-end="9714" vertical-scroll-proportion="0.10344828" vertical-offset="4446" max-vertical-offset="4997">
+            <state line="299" column="22" selection-start="10145" selection-end="10145" vertical-scroll-proportion="0.79310346" vertical-offset="4446" max-vertical-offset="4997">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -511,6 +1204,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="androUI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androUI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -966,7 +1683,7 @@
       <workItem from="1387344708155" duration="9887000" />
       <workItem from="1387417688956" duration="8117000" />
       <workItem from="1387502626716" duration="13762000" />
-      <workItem from="1387761737693" duration="1592000" />
+      <workItem from="1387761737693" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="00">
       <created>1387531329428</created>
@@ -984,11 +1701,15 @@
       <created>1387533630299</created>
       <updated>1387533630299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="00&#10;11&#10;">
+      <created>1387763419777</created>
+      <updated>1387763419777</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33358000" />
+    <option name="totallyTimeSpent" value="33449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1176" height="1032" extended-state="6" />
@@ -1064,22 +1785,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="50" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266" />
+        <state line="8" column="50" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values-w820dp/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://D:/tools/adt-bundle-windows-x86-20131030/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
@@ -1111,7 +1840,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/layout/activity_main.xml">
@@ -1131,17 +1862,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values-w820dp/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="93" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266" />
+        <state line="8" column="93" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="266">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://D:/tools/adt-bundle-windows-x86-20131030/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
@@ -1151,7 +1888,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="481">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/桌面/nginx.conf">
@@ -1212,7 +1951,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="68" selection-start="263" selection-end="263" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="285" />
+        <state line="9" column="68" selection-start="263" selection-end="263" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/AlarmManager/AlarmTestActivity.java">
@@ -1402,7 +2143,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/androUI/src/main/java/com/examp/androui/button/PathButtonActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="279" column="38" selection-start="9714" selection-end="9714" vertical-scroll-proportion="0.10344828" vertical-offset="4446" max-vertical-offset="4997">
+        <state line="299" column="22" selection-start="10145" selection-end="10145" vertical-scroll-proportion="0.79310346" vertical-offset="4446" max-vertical-offset="4997">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
